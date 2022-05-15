@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\QQdownload\大二下创新创业实践\实验\SM4_optimization\SM4_table\main.cpp(230,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\QQdownload\大二下创新创业实践\实验\SM4_optimization\SM4_table\main.cpp(248,61): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\QQdownload\大二下创新创业实践\实验\SM4_optimization\SM4_table\main.cpp(268,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\QQdownload\大二下创新创业实践\实验\SM4_optimization\SM4_table\main.cpp(306,20): warning C4101: “a”: 未引用的局部变量
+  SM4_table.vcxproj -> D:\QQdownload\大二下创新创业实践\实验\SM4_optimization\SM4_table\x64\Debug\SM4_table.exe
